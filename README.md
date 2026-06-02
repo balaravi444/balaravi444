@@ -27,72 +27,38 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+🙋‍♂️ Hey! I'm **Bala Ravi** from **Bangalore, India** 🇮🇳
+
+🎓 **BCA 6th Sem** @ The Oxford College of Science, Bangalore University
+
+🚀 On a mission to become an **AI Engineer by November 2026** — starting from **absolute zero**!
 
 ```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+my_story = {
+    "Day 1"  : "Never written a single line of code",
+    "Day 13" : "Built AI Learning Management System 🏗️",
+    "Day 90" : "AI Engineer — watch this space! 🚀"
+}
 
-class BalaRavi:
-    """
-    Aspiring AI Engineer | BCA Student | Learning in Public
-    Building the future, one commit at a time 🚀
-    """
-
-    def __init__(self):
-        self.name           = "Bala Ravi"
-        self.location       = "Bangalore, India 🇮🇳"
-        self.education      = {
-            "degree"      : "BCA — 6th Semester",
-            "college"     : "The Oxford College of Science",
-            "university"  : "Bangalore University"
-        }
-        self.current        = {
-            "learning"    : ["Python", "OOP", "DSA", "ML", "Deep Learning"],
-            "building"    : "AI Learning Management System",
-            "reading"     : "GeeksforGeeks Python Course",
-            "goal"        : "AI Engineer by November 2026"
-        }
-        self.journey        = {
-            "started"     : "19 May 2026",
-            "days_done"   : 13,
-            "days_target" : 90,
-            "programs"    : 70,
-            "projects"    : 1,
-            "days_missed" : 0   # keeping this ZERO! 🔥
-        }
-        self.fun_facts      = [
-            "I started coding from absolute zero 💡",
-            "I document every single day publicly 📝",
-            "I believe consistency > motivation 🔥",
-            "My goal: help 100+ beginners after I succeed 🤝"
-        ]
-
-    def get_mission(self):
-        return "From zero to AI Engineer — one day at a time! 🚀"
-
-    def get_current_status(self):
-        done = self.journey["days_done"]
-        target = self.journey["days_target"]
-        pct = (done / target) * 100
-        return f"Day {done}/{target} — {pct:.1f}% of the journey complete!"
-
-    def say_hello(self):
-        print(f"Hey there! 👋 I'm {self.name}")
-        print(f"📍 {self.location}")
-        print(f"🎯 {self.get_mission()}")
-        print(f"📊 {self.get_current_status()}")
-
-me = BalaRavi()
-me.say_hello()
-
-# Output:
-# Hey there! 👋 I'm Bala Ravi
-# 📍 Bangalore, India 🇮🇳
-# 🎯 From zero to AI Engineer — one day at a time! 🚀
-# 📊 Day 13/90 — 14.4% of the journey complete!
+my_stats = {
+    "days_completed" : 13,
+    "programs_written": 70,
+    "projects_built" : 1,
+    "days_missed"    : 0,    # keeping this ZERO! 🔥
+    "target"         : "AI Engineer by Nov 2026"
+}
 ```
 
+🔥 **What makes me different:**
+- 📝 Documenting **every single day** publicly on GitHub
+- 💻 Writing **real code** — not just watching tutorials
+- 🏗️ **Building projects** from scratch with full understanding
+- 🤝 Making everything **open source** to help other beginners
+- 💪 **0 days missed** since starting — consistency is everything!
+
+<br/>
 ---
 
 ## 🎓 Education
