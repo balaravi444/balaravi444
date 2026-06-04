@@ -113,18 +113,6 @@ my_stats = {
 
 ## 📅 Latest Learning Updates
 
-<div align="center">
-
-| Day | Topic | Status |
-|-----|-------|--------|
-| Day 13 | 🏗️ OOP Capstone — AI Learning Management System | ✅ Done |
-| Day 12 | OOP — Encapsulation, Polymorphism, Abstract Classes | ✅ Done |
-| Day 11 | OOP — Classes, Inheritance, Method Overriding | ✅ Done |
-| Day 10 | File Handling | ✅ Done |
-| Day 09 | Exception Handling | ✅ Done |
-
-</div>
-
 👉 [See all daily updates](https://github.com/balaravi444/AI-ML-Learning-Journey)
 
 ---
@@ -196,7 +184,7 @@ my_stats = {
 
 | 📅 Days Completed | 💻 Programs Written | 🏗️ Projects Built | 🔥 Days Missed |
 |:-----------------:|:-------------------:|:-----------------:|:--------------:|
-| 13 | 70+ | 1 | 0 |
+| 17| 70+ | 1 | 0 |
 
 </div>
 
