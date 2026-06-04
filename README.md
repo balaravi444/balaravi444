@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bala%20Ravi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20AI%20Engineer%20%7C%20BCA%20Student%20%7C%20Learning%20in%20Public&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bala%20Ravi&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Aspiring%20AI%20Engineer%20%7C%20BCA%20Student%20%7C%20Building%20in%20Public&descAlignY=58&descAlign=50" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🤖+Aspiring+AI+Engineer;🐍+Python+Developer;📚+Learning+in+Public+Every+Day;🎯+Goal%3A+AI+Engineer+by+Nov+2026;🔥+Day+13+of+90+%E2%80%94+Never+Stopping!;🇮🇳+Bangalore%2C+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=🤖+Aspiring+AI+Engineer;🐍+Python+%7C+Data+Science+%7C+ML;📚+17+Days+In+—+Never+Stopped;🎯+Goal%3A+AI+Engineer+by+Nov+2026;🇮🇳+Building+from+Bangalore%2C+India)](https://git.io/typing-svg)
 
 </div>
-
----
 
 <div align="center">
 
@@ -19,7 +17,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-balaravi4545-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/balaravi4545/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-balaravi444-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/balaravi444)
 [![Twitter](https://img.shields.io/badge/Twitter-balaravi444-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/balaravi444)
-![Profile Views](https://komarev.com/ghpvc/?username=balaravi444&style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -27,63 +24,45 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-🙋‍♂️ Hey! I'm **Bala Ravi** from **Bangalore, India** 🇮🇳
+Hey! I'm **Bala Ravi** from **Bangalore, India** 🇮🇳
 
-🎓 **BCA 6th Sem** @ The Oxford College of Science, Bangalore University
+🎓 **BCA 6th Semester** @ The Oxford College of Science, Bangalore University
 
-🚀 On a mission to become an **AI Engineer by November 2026** — starting from **absolute zero**!
+🚀 On a mission to become an **AI Engineer by November 2026** — starting from absolute zero, building every single day.
 
 ```python
-my_story = {
-    "Day 1"  : "Never written a single line of code",
-    "Day 13" : "Built AI Learning Management System 🏗️",
-    "Day 90" : "AI Engineer — watch this space! 🚀"
-}
-
-my_stats = {
-    "days_completed" : 13,
-    "programs_written": 70,
-    "projects_built" : 1,
-    "days_missed"    : 0,    # keeping this ZERO! 🔥
-    "target"         : "AI Engineer by Nov 2026"
+bala = {
+    "started"   : "19 May 2026 — zero coding experience",
+    "now"       : "Python • APIs • JSON • CSV • Regex • OOP",
+    "days_missed": 0,   # keeping this ZERO 🔥
+    "goal"      : "AI Engineer by Nov 2026"
 }
 ```
 
-🔥 **What makes me different:**
-- 📝 Documenting **every single day** publicly on GitHub
-- 💻 Writing **real code** — not just watching tutorials
-- 🏗️ **Building projects** from scratch with full understanding
-- 🤝 Making everything **open source** to help other beginners
-- 💪 **0 days missed** since starting — consistency is everything!
+**What drives me:**
+- 💻 Writing **real code** daily — no passive learning
+- 🏗️ **Building projects** with full understanding
+- 📖 Documenting everything **openly** to help other beginners
+- 🔥 **Zero days missed** — consistency over motivation
 
-<br/>
----
-
-## 🎓 Education
-
-| Degree | College | University | Status |
-|--------|---------|------------|--------|
-| BCA | The Oxford College of Science, Bangalore | Bangalore University | 🎓 6th Semester |
+<br clear="right"/>
 
 ---
 
-## 🗺️ My AI/ML Roadmap
+## 🗺️ Roadmap
 
 <div align="center">
 
-| Phase | Topics | Days | Status |
-|-------|--------|------|--------|
-| 🐍 Phase 1 | Python Foundations | Day 01–20 | ![Progress](https://img.shields.io/badge/Day%2013%2F20-In%20Progress-yellow?style=flat-square) |
-| 🔢 Phase 2 | Math, DSA & Data Science | Day 21–40 | ![Progress](https://img.shields.io/badge/Pending-lightgrey?style=flat-square) |
-| 🤖 Phase 3 | Machine Learning | Day 41–65 | ![Progress](https://img.shields.io/badge/Pending-lightgrey?style=flat-square) |
-| 🧠 Phase 4 | Deep Learning & AI | Day 66–90 | ![Progress](https://img.shields.io/badge/Pending-lightgrey?style=flat-square) |
+| Phase | Focus | Days | Status |
+|-------|-------|------|--------|
+| 🐍 Phase 1 | Python Foundations | Day 01–20 | ![In Progress](https://img.shields.io/badge/In%20Progress-Day%2017-00D9FF?style=flat-square) |
+| 🔢 Phase 2 | Math, DSA & Data Science | Day 21–40 | ![Pending](https://img.shields.io/badge/Pending-lightgrey?style=flat-square) |
+| 🤖 Phase 3 | Machine Learning | Day 41–65 | ![Pending](https://img.shields.io/badge/Pending-lightgrey?style=flat-square) |
+| 🧠 Phase 4 | Deep Learning & AI | Day 66–90 | ![Pending](https://img.shields.io/badge/Pending-lightgrey?style=flat-square) |
 
 </div>
-
-📂 **Follow my full journey:**
-👉 [AI-ML-Learning-Journey](https://github.com/balaravi444/AI-ML-Learning-Journey)
 
 ---
 
@@ -98,9 +77,8 @@ my_stats = {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-**Tools:**
+**Tools I Use:**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -111,23 +89,17 @@ my_stats = {
 
 ---
 
-## 📅 Latest Learning Updates
-
-👉 [See all daily updates](https://github.com/balaravi444/AI-ML-Learning-Journey)
-
----
-
-## 🏗️ Projects Built
+## 🏗️ Projects
 
 <div align="center">
 
-| # | Project | Skills | Status |
-|---|---------|--------|--------|
-| 1 | 🎓 AI Learning Management System | OOP, File Handling, Exception Handling | ✅ [View](https://github.com/balaravi444/AI-ML-Learning-Journey/tree/main/projects) |
-| 2 | 📊 Data Analysis Dashboard | Pandas, NumPy, Matplotlib | 🔒 Coming Day 40 |
-| 3 | 🏠 House Price Predictor | ML, Regression, Scikit-learn | 🔒 Coming Day 56 |
-| 4 | 📧 Email Spam Classifier | NLP, Classification | 🔒 Coming Day 57 |
-| 5 | 🤖 Final AI Portfolio Project | Everything | 🔒 Coming Day 90 |
+| # | Project | Stack | Status |
+|---|---------|-------|--------|
+| 1 | 🎓 AI Learning Management System | OOP · File Handling · Exception Handling | ✅ Built |
+| 2 | 📊 Data Analysis Dashboard | Pandas · NumPy · Matplotlib | 🔒 Day 40 |
+| 3 | 🏠 House Price Predictor | ML · Regression · Scikit-learn | 🔒 Day 56 |
+| 4 | 📧 Email Spam Classifier | NLP · Classification | 🔒 Day 57 |
+| 5 | 🤖 AI Portfolio Project | Everything | 🔒 Day 90 |
 
 </div>
 
@@ -138,7 +110,6 @@ my_stats = {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balaravi444&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaravi444&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </div>
@@ -157,22 +128,11 @@ my_stats = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=balaravi444&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-balaravi4545-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/balaravi4545/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-balaravi444-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/balaravi444)
 
 </div>
 
@@ -184,18 +144,20 @@ my_stats = {
 
 | 📅 Days Completed | 💻 Programs Written | 🏗️ Projects Built | 🔥 Days Missed |
 |:-----------------:|:-------------------:|:-----------------:|:--------------:|
-| 17| 70+ | 1 | 0 |
+| 17 | 80+ | 1 | 0 |
 
 </div>
 
 ---
 
 ## 🎯 2026 Goals
-[ ] Complete 90-day AI/ML roadmap
-[ ] Build 8 real projects
-[ ] Land first AI Engineer job 🎉
-[ ] Help 100+ beginners start their AI journey
-[ ] 0 days missed — full consistency!
+
+- [ ] Complete 90-day AI/ML roadmap
+- [ ] Build 5 real-world projects
+- [ ] Land first AI Engineer role 🎉
+- [ ] Help 100+ beginners start their AI journey
+- [ ] 0 days missed — full consistency!
+
 ---
 
 ## 💬 Let's Connect!
@@ -205,8 +167,6 @@ my_stats = {
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-ravi444/)
 [![Twitter](https://img.shields.io/badge/Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/balaravi444)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaravi444)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/balaravi4545/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/balaravi444)
 
 </div>
 
@@ -222,7 +182,7 @@ my_stats = {
 
 *"Consistency beats motivation. Show up every day."* 🔥
 
-**Started: 19 May 2026 | Target: AI Engineer by November 2026**
+**Started: 19 May 2026 · Target: AI Engineer by November 2026**
 
 *BCA Student @ The Oxford College of Science, Bangalore 🎓*
 
