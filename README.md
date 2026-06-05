@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=🤖+Aspiring+AI+Engineer;🐍+Python+%7C+Data+Science+%7C+ML;📚+17+Days+In+—+Never+Stopped;🎯+Goal%3A+AI+Engineer+by+Nov+2026;🇮🇳+Building+from+Bangalore%2C+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=🤖+Aspiring+AI+Engineer;🐍+Python+%7C+Data+Science+%7C+ML;📚+18+Days+In+—+Never+Stopped;🎯+Goal%3A+AI+Engineer+by+Nov+2026;🇮🇳+Building+from+Bangalore%2C+India)](https://git.io/typing-svg)
 
 </div>
 
@@ -144,7 +144,7 @@ bala = {
 
 | 📅 Days Completed | 💻 Programs Written | 🏗️ Projects Built | 🔥 Days Missed |
 |:-----------------:|:-------------------:|:-----------------:|:--------------:|
-| 17 | 80+ | 1 | 0 |
+| 18 | 80+ | 1 | 0 |
 
 </div>
 
