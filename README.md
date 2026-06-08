@@ -57,8 +57,8 @@ bala = {
 
 | Phase | Focus | Days | Status |
 |-------|-------|------|--------|
-| 🐍 Phase 1 | Python Foundations | Day 01–20 | ![In Progress](https://img.shields.io/badge/In%20Progress-Day%2017-00D9FF?style=flat-square) |
-| 🔢 Phase 2 | Math, DSA & Data Science | Day 21–40 | ![Pending](https://img.shields.io/badge/Pending-lightgrey?style=flat-square) |
+| 🐍 Phase 1 | Python Foundations | Day 01–20 | ![✅ Done](https://img.shields.io/badge/In%20Progress-Day%2017-00D9FF?style=flat-square) |
+| 🔢 Phase 2 | Math, DSA & Data Science | Day 21–40 | ![In progress](https://img.shields.io/badge/Pending-lightgrey?style=flat-square) |
 | 🤖 Phase 3 | Machine Learning | Day 41–65 | ![Pending](https://img.shields.io/badge/Pending-lightgrey?style=flat-square) |
 | 🧠 Phase 4 | Deep Learning & AI | Day 66–90 | ![Pending](https://img.shields.io/badge/Pending-lightgrey?style=flat-square) |
 
@@ -144,7 +144,7 @@ bala = {
 
 | 📅 Days Completed | 💻 Programs Written | 🏗️ Projects Built | 🔥 Days Missed |
 |:-----------------:|:-------------------:|:-----------------:|:--------------:|
-| 18 | 80+ | 1 | 0 |
+| 21 | 80+ | 1 | 0 |
 
 </div>
 
