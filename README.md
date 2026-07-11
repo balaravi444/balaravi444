@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=🤖+Aspiring+AI+Engineer;🐍+Python+%7C+Data+Science+%7C+ML;📚+21+Days+In+—+Never+Stopped;🎯+Goal%3A+AI+Engineer+by+Nov+2026;🇮🇳+Building+from+Bangalore%2C+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=🤖+Aspiring+AI+Engineer;🐍+Python+%7C+Data+Science+%7C+ML;📚+53+Days+In+—+Never+Stopped;🎯+Goal%3A+AI+Engineer+by+Nov+2026;🇮🇳+Building+from+Bangalore%2C+India)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,12 +32,14 @@ Hey! I'm **Bala Ravi** from **Bangalore, India** 🇮🇳
 
 🚀 On a mission to become an **AI Engineer by November 2026** — starting from absolute zero, building every single day.
 
+📂 Daily logs: [AI-ML-Learning-Journey](https://github.com/balaravi444/AI-ML-Learning-Journey)
+
 ```python
 bala = {
-    "started"   : "19 May 2026 — zero coding experience",
-    "now"       : "Python • APIs • JSON • CSV • Regex • OOP",
+    "started"    : "19 May 2026 — zero coding experience",
+    "now"        : "Python • OOP • DSA • ML • Deep Learning • Projects",
     "days_missed": 0,   # keeping this ZERO 🔥
-    "goal"      : "AI Engineer by Nov 2026"
+    "goal"       : "AI Engineer by Nov 2026"
 }
 ```
 
@@ -57,9 +59,9 @@ bala = {
 
 | Phase | Focus | Days | Status |
 |-------|-------|------|--------|
-| 🐍 Phase 1 | Python Foundations | Day 01–20 | ![✅ Done](https://img.shields.io/badge/In%20Done%20-00D9FF?style=flat-square) |
-| 🔢 Phase 2 | Math, DSA & Data Science | Day 21–40 | ![In progress](https://img.shields.io/badge/Progress-lightgrey?style=flat-square) |
-| 🤖 Phase 3 | Machine Learning | Day 41–65 | ![Pending](https://img.shields.io/badge/Pending-lightgrey?style=flat-square) |
+| 🐍 Phase 1 | Python Foundations | Day 01–20 | ![✅ Done](https://img.shields.io/badge/Done-00D9FF?style=flat-square) |
+| 🔢 Phase 2 | Math, DSA & Data Science | Day 21–40 | ![✅ Done](https://img.shields.io/badge/Done-00D9FF?style=flat-square) |
+| 🤖 Phase 3 | Machine Learning | Day 41–65 | ![In progress](https://img.shields.io/badge/In%20Progress-yellow?style=flat-square) |
 | 🧠 Phase 4 | Deep Learning & AI | Day 66–90 | ![Pending](https://img.shields.io/badge/Pending-lightgrey?style=flat-square) |
 
 </div>
@@ -96,10 +98,12 @@ bala = {
 | # | Project | Stack | Status |
 |---|---------|-------|--------|
 | 1 | 🎓 AI Learning Management System | OOP · File Handling · Exception Handling | ✅ Built |
-| 2 | 📊 Data Analysis Dashboard | Pandas · NumPy · Matplotlib | 🔒 Day 40 |
-| 3 | 🏠 House Price Predictor | ML · Regression · Scikit-learn | 🔒 Day 56 |
-| 4 | 📧 Email Spam Classifier | NLP · Classification | 🔒 Day 57 |
-| 5 | 🤖 AI Portfolio Project | Everything | 🔒 Day 90 |
+| 2 | 💰 RiskWise — RL Micro-Investment Advisor | DQN · Gym · Fairlearn · Streamlit | ✅ Built |
+| 3 | 🔗 FedGNN-Credit — Federated GNN Credit Scoring | Graph Transformers · FedAvg · Differential Privacy | ✅ Built |
+| 4 | 📄 DocuMind AI — Doc/Invoice Processing Pipeline | PaddleOCR · LLM Extraction · FastAPI · Docker | ✅ Built |
+| 5 | 🏠 House Price Predictor | ML · Regression · Scikit-learn | 🔒 Day 56 |
+| 6 | 📧 Email Spam Classifier | NLP · Classification | 🔒 Day 57 |
+| 7 | 🤖 Final AI Portfolio Project | Everything | 🔒 Day 90 |
 
 </div>
 
@@ -144,7 +148,7 @@ bala = {
 
 | 📅 Days Completed | 💻 Programs Written | 🏗️ Projects Built | 🔥 Days Missed |
 |:-----------------:|:-------------------:|:-----------------:|:--------------:|
-| 21 | 80+ | 1 | 0 |
+| 53 | 150+ | 4 | 0 |
 
 </div>
 
@@ -152,11 +156,11 @@ bala = {
 
 ## 🎯 2026 Goals
 
+- [x] Build 3+ real-world projects
 - [ ] Complete 90-day AI/ML roadmap
-- [ ] Build 5 real-world projects
 - [ ] Land first AI Engineer role 🎉
 - [ ] Help 100+ beginners start their AI journey
-- [ ] 0 days missed — full consistency!
+- [x] 0 days missed — full consistency!
 
 ---
 
