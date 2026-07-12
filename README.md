@@ -20,6 +20,12 @@
 
 </div>
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=balaravi444&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -70,24 +76,11 @@ bala = {
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Currently Learning:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Tools I Use:**
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,sklearn,pandas,numpy,git,github,vscode,linux,docker&perline=6" />
 
 </div>
 
@@ -100,7 +93,7 @@ bala = {
 | # | Project | What It Does | Stack | Status |
 |---|---------|--------------|-------|--------|
 | 1 | 💰 [ArthAI](https://github.com/balaravi444/AI-ML-Learning-Journey/tree/main/projects/arthAI) | AI-powered personal finance advisor for every Indian | FastAPI · Gemini LLM · DSA (DP + Binary Search) | 🟢 Live |
-| 2 | 📈 [Indian Job Market Analyzer]| Salary fairness checker + ML salary predictor | Pandas · Sklearn · Random Forest · FastAPI · Chart.js | 🟢 Live |
+| 2 | 📈 [Indian Job Market Analyzer](https://github.com/balaravi444/AI-ML-Learning-Journey/tree/main/projects/indian_job_market_analyzer) | Salary fairness checker + ML salary predictor | Pandas · Sklearn · Random Forest · FastAPI · Chart.js | 🟢 Live |
 | 3 | 🎓 [AI Learning Management System](https://github.com/balaravi444/AI-ML-Learning-Journey/tree/main/projects/01_ai_learning_management_system) | Track and manage AI/ML learning progress | Python OOP · File Handling | ✅ Built |
 | 4 | 🏠 Student Performance Predictor | Early warning system for at-risk students | ML · Regression · Scikit-learn | 🔒 Day 59–62 |
 | 5 | 🤝 AI Hiring Assistant | NLP-based resume screening assistant | NLP · TF-IDF · Sentiment Analysis | 🔒 Day 67–70 |
@@ -135,6 +128,21 @@ bala = {
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/balaravi444/balaravi444/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+> ⚙️ **One-time setup needed** to make this snake animate (renders empty until you do this):
+> 1. In this profile repo, go to `Settings → Actions → General` → enable "Read and write permissions"
+> 2. Add file `.github/workflows/snake.yml` with the [Platane/snk action](https://github.com/Platane/snk) — copy their sample workflow
+> 3. Push — Action runs, generates the `output` branch automatically, image above goes live within a few minutes
+
+---
+
 ## 🏆 Trophies
 
 <div align="center">
@@ -152,6 +160,16 @@ bala = {
 | 📅 Days Completed | 💻 Programs Written | 🏗️ Projects Live/Built | 🔥 Days Missed |
 |:-----------------:|:-------------------:|:-----------------------:|:--------------:|
 | 53 | 150+ | 3 | 0 |
+
+</div>
+
+---
+
+## 💭 Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
