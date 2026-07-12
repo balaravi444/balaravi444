@@ -93,7 +93,7 @@ bala = {
 | # | Project | What It Does | Stack | Status |
 |---|---------|--------------|-------|--------|
 | 1 | 💰 [ArthAI](https://github.com/balaravi444/AI-ML-Learning-Journey/tree/main/projects/arthAI) | AI-powered personal finance advisor for every Indian | FastAPI · Gemini LLM · DSA (DP + Binary Search) | 🟢 Live |
-| 2 | 📈 [Indian Job Market Analyzer](https://github.com/balaravi444/AI-ML-Learning-Journey/tree/main/projects/indian_job_market_analyzer) | Salary fairness checker + ML salary predictor | Pandas · Sklearn · Random Forest · FastAPI · Chart.js | 🟢 Live |
+| 2 | 📈 [Indian Job Market Analyzer](https://github.com/balaravi444/AI-ML-Learning-Journey/tree/main/projects/indian_job_market_analyzer) | Salary fairness checker + ML salary predictor | Pandas · Sklearn · Random Forest · FastAPI · Chart.js | ✅ Built |
 | 3 | 🎓 [AI Learning Management System](https://github.com/balaravi444/AI-ML-Learning-Journey/tree/main/projects/01_ai_learning_management_system) | Track and manage AI/ML learning progress | Python OOP · File Handling | ✅ Built |
 | 4 | 🏠 Student Performance Predictor | Early warning system for at-risk students | ML · Regression · Scikit-learn | 🔒 Day 59–62 |
 | 5 | 🤝 AI Hiring Assistant | NLP-based resume screening assistant | NLP · TF-IDF · Sentiment Analysis | 🔒 Day 67–70 |
