@@ -128,21 +128,6 @@ bala = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/balaravi444/balaravi444/output/github-contribution-grid-snake.svg" />
-
-</div>
-
-> ⚙️ **One-time setup needed** to make this snake animate (renders empty until you do this):
-> 1. In this profile repo, go to `Settings → Actions → General` → enable "Read and write permissions"
-> 2. Add file `.github/workflows/snake.yml` with the [Platane/snk action](https://github.com/Platane/snk) — copy their sample workflow
-> 3. Push — Action runs, generates the `output` branch automatically, image above goes live within a few minutes
-
----
-
 ## 🏆 Trophies
 
 <div align="center">
@@ -160,16 +145,6 @@ bala = {
 | 📅 Days Completed | 💻 Programs Written | 🏗️ Projects Live/Built | 🔥 Days Missed |
 |:-----------------:|:-------------------:|:-----------------------:|:--------------:|
 | 53 | 150+ | 3 | 0 |
-
-</div>
-
----
-
-## 💭 Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
