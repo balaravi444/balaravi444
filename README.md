@@ -37,7 +37,7 @@ Hey! I'm **Bala Ravi** from **Bangalore, India** 🇮🇳
 ```python
 bala = {
     "started"    : "19 May 2026 — zero coding experience",
-    "now"        : "Python • OOP • DSA • ML • Deep Learning • Projects",
+    "now"        : "Python • OOP • DSA • Data Science • ML",
     "days_missed": 0,   # keeping this ZERO 🔥
     "goal"       : "AI Engineer by Nov 2026"
 }
@@ -59,10 +59,12 @@ bala = {
 
 | Phase | Focus | Days | Status |
 |-------|-------|------|--------|
-| 🐍 Phase 1 | Python Foundations | Day 01–20 | ![✅ Done](https://img.shields.io/badge/Done-00D9FF?style=flat-square) |
-| 🔢 Phase 2 | Math, DSA & Data Science | Day 21–40 | ![✅ Done](https://img.shields.io/badge/Done-00D9FF?style=flat-square) |
-| 🤖 Phase 3 | Machine Learning | Day 41–65 | ![In progress](https://img.shields.io/badge/In%20Progress-yellow?style=flat-square) |
-| 🧠 Phase 4 | Deep Learning & AI | Day 66–90 | ![Pending](https://img.shields.io/badge/Pending-lightgrey?style=flat-square) |
+| 🐍 Phase 1 | Python Foundations | Day 01–20 | ![Done](https://img.shields.io/badge/Done-00D9FF?style=flat-square) |
+| 🔢 Phase 2 | DSA + ArthAI | Day 21–35 | ![Done](https://img.shields.io/badge/Done-00D9FF?style=flat-square) |
+| 📊 Phase 3 | Data Science + Job Market Analyzer | Day 36–50 | ![Done](https://img.shields.io/badge/Done-00D9FF?style=flat-square) |
+| 🤖 Phase 4 | Machine Learning | Day 51–70 | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=flat-square) |
+| 🧠 Phase 5 | Deep Learning & AI | Day 71–90 | ![Pending](https://img.shields.io/badge/Pending-lightgrey?style=flat-square) |
+| 🚀 Phase 6 | Enterprise AI Products | Day 90+ | ![Planned](https://img.shields.io/badge/Planned-lightgrey?style=flat-square) |
 
 </div>
 
@@ -78,7 +80,7 @@ bala = {
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Tools I Use:**
 
@@ -95,17 +97,18 @@ bala = {
 
 <div align="center">
 
-| # | Project | Stack | Status |
-|---|---------|-------|--------|
-| 1 | 🎓 AI Learning Management System | OOP · File Handling · Exception Handling | ✅ Built |
-| 2 | 💰 RiskWise — RL Micro-Investment Advisor | DQN · Gym · Fairlearn · Streamlit | ✅ Built |
-| 3 | 🔗 FedGNN-Credit — Federated GNN Credit Scoring | Graph Transformers · FedAvg · Differential Privacy | ✅ Built |
-| 4 | 📄 DocuMind AI — Doc/Invoice Processing Pipeline | PaddleOCR · LLM Extraction · FastAPI · Docker | ✅ Built |
-| 5 | 🏠 House Price Predictor | ML · Regression · Scikit-learn | 🔒 Day 56 |
-| 6 | 📧 Email Spam Classifier | NLP · Classification | 🔒 Day 57 |
-| 7 | 🤖 Final AI Portfolio Project | Everything | 🔒 Day 90 |
+| # | Project | What It Does | Stack | Status |
+|---|---------|--------------|-------|--------|
+| 1 | 💰 [ArthAI](https://github.com/balaravi444/AI-ML-Learning-Journey/tree/main/projects/arthAI) | AI-powered personal finance advisor for every Indian | FastAPI · Gemini LLM · DSA (DP + Binary Search) | 🟢 Live |
+| 2 | 📈 [Indian Job Market Analyzer]| Salary fairness checker + ML salary predictor | Pandas · Sklearn · Random Forest · FastAPI · Chart.js | 🟢 Live |
+| 3 | 🎓 [AI Learning Management System](https://github.com/balaravi444/AI-ML-Learning-Journey/tree/main/projects/01_ai_learning_management_system) | Track and manage AI/ML learning progress | Python OOP · File Handling | ✅ Built |
+| 4 | 🏠 Student Performance Predictor | Early warning system for at-risk students | ML · Regression · Scikit-learn | 🔒 Day 59–62 |
+| 5 | 🤝 AI Hiring Assistant | NLP-based resume screening assistant | NLP · TF-IDF · Sentiment Analysis | 🔒 Day 67–70 |
+| 6 | 🧬 AI Study Buddy | LLM + RAG capstone project | LangChain · Vector DB · RAG | 🔒 Day 87–90 |
 
 </div>
+
+> 📂 Full project details & code: [AI-ML-Learning-Journey repo](https://github.com/balaravi444/AI-ML-Learning-Journey)
 
 ---
 
@@ -146,9 +149,9 @@ bala = {
 
 <div align="center">
 
-| 📅 Days Completed | 💻 Programs Written | 🏗️ Projects Built | 🔥 Days Missed |
-|:-----------------:|:-------------------:|:-----------------:|:--------------:|
-| 53 | 150+ | 4 | 0 |
+| 📅 Days Completed | 💻 Programs Written | 🏗️ Projects Live/Built | 🔥 Days Missed |
+|:-----------------:|:-------------------:|:-----------------------:|:--------------:|
+| 53 | 150+ | 3 | 0 |
 
 </div>
 
