@@ -1,12 +1,21 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bala%20Ravi&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Architect%20%7C%20Building%20in%20Public&descAlignY=58&descAlign=50" /> </div> <div align="center">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bala%20Ravi&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Architect%20%7C%20Data%20Scientist&descAlignY=58&descAlign=50" /> </div> <div align="center"> <table>
+<tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/226447647?v=4" width="180px" style="border-radius: 50%;" />
+        
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=%F0%9F%A4%96+AI+Engineer+in+the+Making;%F0%9F%90%8D+Python+Expert+%7C+Data+Science+%7C+ML;%F0%9F%8F%97%EF%B8%8F+Architecting+Scalable+AI+Solutions;%F0%9F%8E%AF+Goal%3A+Enterprise+AI+Engineer+by+Nov+2026;%F0%9F%87%AE%F0%9F%87%B3+Building+from+Bangalore%2C+India)](https://git.io/typing-svg)
+      <b>Bala Ravi</b>
+    </td>
+    <td align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=450&lines=🤖+AI+Engineer;🐍+Python+Expert;📊+ML+%26+Data+Science;🏗️+Scalable+AI+Systems;🇮🇳+Bangalore%2C+India" />
+        
 
-</div> <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bala%20Ravi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-ravi444/)[![GitHub](https://img.shields.io/badge/GitHub-balaravi444-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaravi444)[![HackerRank](https://img.shields.io/badge/HackerRank-balaravi444-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/balaravi444)[![LeetCode](https://img.shields.io/badge/LeetCode-balaravi4545-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/balaravi4545/)[![Twitter](https://img.shields.io/badge/Twitter-balaravi444-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/balaravi444)
-
-</div> <div align="center">
+      <a href="https://www.linkedin.com/in/bala-ravi444/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      <a href="https://www.hackerrank.com/profile/balaravi444"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+      <a href="https://leetcode.com/u/balaravi4545/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+    </td>
+  </tr>
+</table> </div> <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=balaravi444&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS&base=3000)
 
@@ -16,24 +25,34 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+Highly motivated **AI Engineer** based in **Bangalore, India** 🇮🇳. I specialize in building intelligent systems that solve real-world problems. With a strong foundation in **Python**, **Data Science**, and **Machine Learning**, I focus on creating scalable, data-driven applications. Recently graduated, I am now dedicated to pushing the boundaries of AI and contributing to the global tech ecosystem.
 
-Hey! I'm **Bala Ravi**, an aspiring **AI Engineer** based in **Bangalore, India** 🇮🇳.
+- 🔭 **Current Focus:** Advanced Machine Learning & Deep Learning architectures.
 
-I recently completed my college degree and am now fully dedicated to mastering the AI/ML landscape. My journey is defined by a "build-in-public" philosophy, where I document every breakthrough and challenge. I focus on creating high-impact, data-driven solutions that bridge the gap between complex algorithms and real-world utility.
+- ⚡ **Philosophy:** Building in public and maintaining extreme consistency in code quality.
 
-```python
-class BalaRavi:
-    def __init__(self ):
-        self.role       = "AI Engineer"
-        self.location   = "Bangalore, India"
-        self.expertise  = ["Python", "ML", "Deep Learning", "Data Engineering"]
-        self.status     = "Recent Graduate — Actively Building"
-        self.goal       = "Architecting Enterprise AI by Nov 2026"
+- 🎯 **Goal:** Architecting enterprise-grade AI products by 2026.
 
-    def philosophy(self):
-        return "Consistency > Motivation. Zero days missed."
-```
+---
+
+## 🛠️ Tech Stack & Expertise
+
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,sklearn,pandas,numpy,git,github,vscode,linux,docker,postgres,mysql,mongodb,aws,html,css&perline=9" /> </div>
+
+---
+
+## 🏗️ Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+| --- | --- | --- | --- |
+| 💰 [**ArthAI**](https://github.com/balaravi444/AI-ML-Learning-Journey/tree/main/projects/arthAI) | AI-powered personal finance advisor optimized for the Indian market. | FastAPI, Gemini LLM, DSA | 🟢 Live |
+| 📈 [**Job Market Analyzer**](https://github.com/balaravi444/AI-ML-Learning-Journey/tree/main/projects/indian_job_market_analyzer) | Salary predictor and fairness checker using ML models. | Sklearn, Pandas, FastAPI | ✅ Completed |
+| 🤖 [**Financial AI System**](https://github.com/balaravi444/Financial_AI_System) | An end-to-end intelligent agent for automated financial analysis. | Python, AI Agents | 🚀 Active |
+| 🎓 [**AI LMS**](https://github.com/balaravi444/AI-ML-Learning-Journey/tree/main/projects/01_ai_learning_management_system) | A robust system to track and manage complex AI/ML learning paths. | Python OOP, File Handling | ✅ Completed |
+
+</div>
 
 ---
 
@@ -54,27 +73,6 @@ class BalaRavi:
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,sklearn,pandas,numpy,git,github,vscode,linux,docker,postgres,mysql&perline=7" /> </div>
-
----
-
-## 🏗️ Featured Projects
-
-<div align="center">
-
-| # | Project | Core Innovation | Tech Stack | Status |
-| --- | --- | --- | --- | --- |
-| 1 | 💰 [**ArthAI**](https://github.com/balaravi444/AI-ML-Learning-Journey/tree/main/projects/arthAI) | AI Finance Advisor for India | FastAPI · Gemini LLM · DSA | 🟢 Live |
-| 2 | 📈 [**Job Market Analyzer**](https://github.com/balaravi444/AI-ML-Learning-Journey/tree/main/projects/indian_job_market_analyzer) | ML-based Salary Predictor | Pandas · Sklearn · FastAPI | ✅ Built |
-| 3 | 🤖 [**Financial AI System**](https://github.com/balaravi444/Financial_AI_System) | Automated Financial Analysis Agent | Python · AI Agents | 🚀 Active |
-| 4 | 🎓 [**AI LMS**](https://github.com/balaravi444/AI-ML-Learning-Journey/tree/main/projects/01_ai_learning_management_system) | Intelligent Progress Tracker | Python OOP · File Handling | ✅ Built |
-
-</div>
-
----
-
 ## 📊 GitHub Ecosystem
 
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balaravi444&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -82,9 +80,9 @@ class BalaRavi:
 
 ---
 
-## 🏆 Trophies & Achievements
+## 🏆 Achievements & Trophies
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=balaravi444&theme=tokyonight&no-frame=true&row=1&column=6"/> </div> <div align="center">
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=balaravi444&theme=tokyonight&no-frame=true&row=1&column=6"/> </div> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balaravi444&theme=tokyonight" /> </div> <div align="center">
 
 | 📅 Journey Progress | 💻 Code Contributions | 🏗️ Production Projects | 🔥 Consistency |
 | --- | --- | --- | --- |
@@ -94,21 +92,7 @@ class BalaRavi:
 
 ---
 
-## 🎯 2026 Vision
-
-- [x] Architected 4+ real-world AI applications
-
-- [ ] Complete the 90-day Intensive AI/ML roadmap
-
-- [ ] Secure a high-impact AI Engineer role 🎉
-
-- [ ] Mentor 100+ beginners in their coding journey
-
-- [x] Maintain absolute consistency — 0 days missed!
-
----
-
-## 💬 Let's Connect!
+## 🤝 Connect With Me
 
 <div align="center">
 
