@@ -1,21 +1,12 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bala%20Ravi&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Architect%20%7C%20Data%20Scientist&descAlignY=58&descAlign=50" /> </div> <div align="center"> <table>
-<tr>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/226447647?v=4" width="180px" style="border-radius: 50%;" />
-        
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bala%20Ravi&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Architect%20%7C%20Data%20Scientist&descAlignY=58&descAlign=50" /> </div> <div align="center"> <img src="https://avatars.githubusercontent.com/u/226447647?v=4" width="150px" style="border-radius: 50%;" />
 
-      <b>Bala Ravi</b>
-    </td>
-    <td align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=450&lines=🤖+AI+Engineer;🐍+Python+Expert;📊+ML+%26+Data+Science;🏗️+Scalable+AI+Systems;🇮🇳+Bangalore%2C+India" />
-        
+### **Bala Ravi**
 
-      <a href="https://www.linkedin.com/in/bala-ravi444/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      <a href="https://www.hackerrank.com/profile/balaravi444"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-      <a href="https://leetcode.com/u/balaravi4545/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-    </td>
-  </tr>
-</table> </div> <div align="center">
+**AI Engineer | Machine Learning Architect | Data Scientist**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=450&lines=%F0%9F%A4%96+AI+Engineer;%F0%9F%90%8D+Python+Expert;%F0%9F%93%8A+ML+%26+Data+Science;%F0%9F%8F%97%EF%B8%8F+Scalable+AI+Systems;%F0%9F%87%AE%F0%9F%87%B3+Bangalore%2C+India)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-ravi444/)[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/balaravi444)[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/balaravi4545/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=balaravi444&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS&base=3000)
 
