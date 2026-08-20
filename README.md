@@ -28,7 +28,7 @@
 
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=Profile%20Views&style=flat-square&count=7674)
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=Profile%20Views&style=flat-square&count=5004)
 
 </div>
 
