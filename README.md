@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Bala Ravi
 
-### Python Developer • AI Engineer • Backend Developer
+### Python Developer • AI Engineer • Full Stack Developer • Backend Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Applications;FastAPI+%7C+Machine+Learning+%7C+Python;Learning+Every+Day+%F0%9F%9A%80;Open+to+Internships+%26+Full-Time+Roles"/>
 
