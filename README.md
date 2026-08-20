@@ -28,7 +28,7 @@
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=balaravi444&style=for-the-badge&color=0e75b6&count=10000"/>
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=Profile%20Views&style=flat-square&count=7674)
 
 </div>
 
