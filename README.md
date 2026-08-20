@@ -34,16 +34,52 @@
 
 ---
 
-# 🚀 About Me
-
-I'm **Bala Ravi**, a **Python Developer** and **AI Engineer** passionate about building practical software that solves real-world problems.
-
-Instead of only learning concepts, I enjoy building complete applications using **Python, FastAPI, Machine Learning, and AI**.
-
-Currently, I'm documenting my AI & Machine Learning journey publicly by consistently building projects, writing code, and improving my engineering skills every day.
-
-I believe the best way to learn software engineering is by building products that people can actually use.
-
+# Hi there! 👋
+ 
+Welcome to my GitHub profile. I'm a web developer who builds real-time web applications, and an educator passionate about teaching Python, Artificial Intelligence, and Machine Learning to students.
+ 
+---
+ 
+## 🚀 Project Showcase
+ 
+### 🏫 Milton Public School Real-Time Website
+ 
+Built a dynamic, real-time website for **Milton Public School** to strengthen the school's online presence and give students, parents, and staff instant access to important information.
+ 
+**Key Features:**
+ 
+- Real-time updates for announcements, events, and notices
+- Clean, user-friendly interface for easy navigation
+- Responsive design across devices
+- Centralized info hub for the school community
+🔗 [Visit the Live Website](https://www.miltonpublicschoolmanvi.in/)
+ 
+---
+ 
+## 💡 Skills & Expertise
+ 
+- **Programming Languages**: Python, JavaScript, HTML, CSS
+- **AI & Machine Learning**: TensorFlow, Keras, Scikit-learn, NLP
+- **Web Development**: Flask, Django, React, Node.js
+- **Databases**: SQL, MongoDB
+- **Cloud Platforms**: AWS, Google Cloud
+I actively apply these skills not just in building production websites like the Milton Public School project, but also in breaking down AI/ML concepts into practical, hands-on lessons for students — turning theory into projects they can build and understand.
+ 
+---
+ 
+## 🧑‍🏫 Teaching & Mentorship
+ 
+I'm committed to empowering the next generation of tech minds. I actively teach and mentor students in:
+ 
+- **Python Programming** — building a strong foundation for real-world applications
+- **Artificial Intelligence** — exploring how intelligent systems work and where they're headed
+- **Machine Learning** — guiding students through building and understanding predictive models
+**Goals of my teaching initiatives:**
+ 
+- Make complex AI/ML topics accessible and engaging
+- Encourage learning through hands-on projects, not just theory
+- Build student confidence to create their own real-world applications
+- Foster a lasting curiosity for technology and innovation
 ---
 
 # 💼 What I Do
@@ -660,6 +696,9 @@ It motivates me to continue building and sharing projects with the community.
 </div>
 
 ---
+## 🤝 Let's Connect
+ 
+Open to collaboration on web development, AI/ML projects, or teaching initiatives. Feel free to explore my repositories and reach out — always happy to connect with fellow developers, educators, and students.
 
 <div align="center">
 
