@@ -1,208 +1,669 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:06B6D4,100:10B981&text=Bala%20Ravi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Backend%20Developer&descAlignY=58" alt="Bala Ravi profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:06B6D4,100:10B981&text=Bala%20Ravi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20AI%20Engineer%20|%20Backend%20Developer&descAlignY=58"/>
 
-# Hi, I'm Bala Ravi
+# 👋 Hi, I'm Bala Ravi
 
-### Full-Stack Developer · Python Developer · AI Engineer
+### Python Developer • AI Engineer • Backend Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+real-world+websites+and+AI+applications;React+%7C+TypeScript+%7C+JavaScript+%7C+Python;Turning+client+requirements+into+production-ready+software;Learning%2C+building%2C+and+shipping+consistently" alt="Typing introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Applications;FastAPI+%7C+Machine+Learning+%7C+Python;Learning+Every+Day+%F0%9F%9A%80;Open+to+Internships+%26+Full-Time+Roles"/>
 
 <p>
-<a href="https://github.com/balaravi444"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/bala-ravi444/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:balaravi4545@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.miltonpublicschoolmanvi.in/"><img src="https://img.shields.io/badge/Client%20Website-Milton%20Public%20School-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Milton Public School website" /></a>
+
+<a href="https://www.linkedin.com/in/bala-ravi444/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/balaravi444">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:balaravi4545@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://financial-ai-system-sg1u.onrender.com/">
+<img src="https://img.shields.io/badge/Live_Project-00C853?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
+
 </p>
 
-<img src="https://img.shields.io/badge/PROFILE%20VIEWS-10%2C000%2B-0e75b6?style=for-the-badge" alt="10,000+ profile views" />
+<img src="https://komarev.com/ghpvc/?username=balaravi444&style=for-the-badge&color=0e75b6&count=10000"/>
 
 </div>
 
 ---
 
-## About Me
+# 🚀 About Me
 
-I am a **full-stack and AI-focused developer** who enjoys transforming practical requirements into reliable, maintainable software. My work spans responsive frontend development, backend API design, data-driven applications, automation, and applied artificial intelligence.
+I'm **Bala Ravi**, a **Python Developer** and **AI Engineer** passionate about building practical software that solves real-world problems.
 
-I believe strong engineering is not only about writing code. It is about understanding the problem, designing a clear solution, building with care, testing the important paths, and delivering an experience that real users can trust.
+Instead of only learning concepts, I enjoy building complete applications using **Python, FastAPI, Machine Learning, and AI**.
 
-## Client Work: Milton Public School Manvi
+Currently, I'm documenting my AI & Machine Learning journey publicly by consistently building projects, writing code, and improving my engineering skills every day.
 
-> **A real-world school website built for a real client, with the public launch planned for tomorrow morning.**
+I believe the best way to learn software engineering is by building products that people can actually use.
 
-I designed and developed the official website for **Milton Public School, Manvi**, translating the institution's needs into a professional, accessible, and responsive web experience for students, parents, staff, and visitors.
+---
 
-### Project Highlights
+# 💼 What I Do
 
-| Area | Implementation |
-|---|---|
-| Project type | Real-client institutional website |
-| Client | Milton Public School, Manvi |
-| Frontend | HTML, CSS, React, JavaScript, and TypeScript |
-| Primary goals | Clear communication, responsive design, usability, and professional presentation |
-| Delivery stage | Prepared for public launch |
-| Website | [miltonpublicschoolmanvi.in](https://www.miltonpublicschoolmanvi.in/) |
+✅ Build Backend APIs using FastAPI
 
-This project represents an important step in my development journey: building software for an actual organization, working against real communication needs, and taking responsibility for the quality of a public-facing product.
+✅ Develop Machine Learning Applications
 
-**Note:** The website link is included as the official destination and is scheduled to become publicly available after the client launch. It may show a temporary hosting or coming-soon page until deployment is completed.
+✅ Build AI-powered Web Applications
 
-## What I Build
+✅ Python Automation
 
-I build responsive frontend experiences with **React, TypeScript, JavaScript, HTML, and CSS**, along with backend services and AI-powered applications using **Python and FastAPI**. My projects typically focus on clear architecture, practical functionality, maintainable code, and deployment-ready implementation.
+✅ Data Analysis
 
-My current areas of work include:
+✅ REST API Development
 
-- Real-client websites and responsive web interfaces
-- React and TypeScript frontend development
-- Python and FastAPI backend APIs
-- AI-powered products and intelligent assistants
-- Machine learning applications and data analysis
-- REST API development and third-party integrations
-- Automation, dashboards, and production-oriented prototypes
+✅ Streamlit Dashboards
 
-## Technology Stack
+✅ AI Product Development
+
+---
+
+# 🎯 Current Focus
+
+- 🧠 Deep Learning
+
+- 🤖 AI Agents
+
+- ⚡ FastAPI Backend Development
+
+- 📊 Machine Learning
+
+- 🏗️ System Design
+
+- ☁️ Cloud Deployment
+
+---
+
+# 🌍 Open To
+
+✔ AI/ML Internship
+
+✔ Python Developer Internship
+
+✔ Backend Developer Internship
+
+✔ Freelance Projects
+
+✔ Open Source Contributions
+
+✔ Full-Time Opportunities
+
+---
+
+# 📌 Quick Highlights
+
+🎓 BCA Graduate (2026)
+
+🐍 Python Developer
+
+🤖 AI Engineer
+
+🔥 75+ Days of Consistent AI/ML Learning
+
+🚀 Multiple Production Projects
+
+🌍 Based in Bengaluru, India 🇮🇳
+
+---
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend Development
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" alt="HTML CSS JavaScript TypeScript React" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js"/>
 </p>
 
-### Backend, AI, and Data
+### AI • Machine Learning • Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,tensorflow,pytorch" alt="Python FastAPI Flask TensorFlow PyTorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge"/>
 </p>
 
-### Databases, Tools, and Deployment
+### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,git,github,docker,linux,vscode,postman" alt="MySQL PostgreSQL SQLite MongoDB Git GitHub Docker Linux VS Code Postman" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"/>
+</p>
+
+### Deployment
+
+<p>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github"/>
 </p>
 
 </div>
 
-## Featured Projects
+---
 
-### Milton Public School Manvi Website
+# 🌐 Live Projects
 
-A professional institutional website delivered for a real school client. Built with a modern frontend stack using **React, TypeScript, JavaScript, HTML, and CSS**, with an emphasis on responsive layouts, clear content structure, accessibility, and a dependable user experience.
+<table>
 
-**[Visit the official website](https://www.miltonpublicschoolmanvi.in/)** · **Client project**
+<tr>
 
-### ArthAI — AI Financial Advisor
+<td width="50%">
 
-An AI-powered financial application designed for Indian users. The project combines financial planning tools, SIP and retirement calculations, stock analysis, financial health insights, and an AI assistant.
+## 💰 ArthAI
 
-**Stack:** Python · FastAPI · Streamlit · Gemini AI · LangChain · SQLite
+### AI Powered Financial Advisor
 
-**[Live application](https://financial-ai-system-sg1u.onrender.com/)** · **[Repository](https://github.com/balaravi444/AI-ML-Learning-Journey/tree/main/projects/arthAI)**
+✔ Financial Health Score
 
-### Indian Job Market Analyzer
+✔ SIP Calculator
 
-A machine learning application for salary prediction and analysis of the Indian technology job market. It includes data visualization, a Random Forest model, an ML pipeline, and fairness-focused analysis.
+✔ Retirement Planner
 
-**Stack:** Python · Scikit-learn · Pandas · NumPy
+✔ Stock Analysis
 
-### Financial AI System
+✔ AI Financial Assistant
 
-An enterprise-style AI application focused on intelligent financial analysis, modular backend architecture, API integrations, and automated insights.
+✔ FastAPI Backend
 
-**Stack:** Python · FastAPI · AI services · SQLite
+### 🔗 Live Demo
 
-## Learning in Public
+https://financial-ai-system-sg1u.onrender.com/
 
-My [AI & ML Learning Journey](https://github.com/balaravi444/AI-ML-Learning-Journey) documents my ongoing work in Python, object-oriented programming, data science, machine learning, backend development, algorithms, technical notes, and production-oriented projects.
+</td>
 
-I learn by building, reviewing what I build, and continuously improving the quality of my implementation. The goal is to progress from working prototypes to scalable, well-engineered products.
+<td>
 
-## Current Focus
+<img src="https://img.shields.io/badge/STATUS-LIVE-success?style=for-the-badge"/>
 
-| Focus area | Direction |
-|---|---|
-| Full-stack development | Building polished interfaces and client-ready web products |
-| Frontend engineering | React, TypeScript, JavaScript, responsive UI, and accessibility |
-| Backend engineering | Python, FastAPI, REST APIs, and scalable service design |
-| Artificial intelligence | Machine learning, LLM applications, and AI-assisted workflows |
-| Software delivery | Testing, documentation, deployment, and maintainable architecture |
+<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge"/>
 
-## Professional Goals
+<img src="https://img.shields.io/badge/Gemini-AI-blue?style=for-the-badge"/>
 
-I am currently open to **software development internships, full-time opportunities, freelance projects, client collaborations, and open-source contributions**. I am especially interested in roles involving frontend development, full-stack engineering, Python backend development, AI applications, and practical product development.
+<img src="https://img.shields.io/badge/Python-3.13-yellow?style=for-the-badge"/>
 
-## GitHub Analytics
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 💰 ArthAI
+
+### AI Financial Advisor
+
+An AI-powered financial assistant designed for Indian users.
+
+### Features
+
+- Financial Planning
+
+- Retirement Calculator
+
+- SIP Calculator
+
+- Stock Market Analysis
+
+- AI Chat Assistant
+
+- Financial Health Score
+
+### Tech Stack
+
+Python • FastAPI • Streamlit • Gemini AI • LangChain • SQLite
+
+🔗 Repository
+
+https://github.com/balaravi444/AI-ML-Learning-Journey/tree/main/projects/arthAI
+
+</td>
+
+<td width="50%">
+
+## 📈 Indian Job Market Analyzer
+
+Machine Learning application that predicts salaries and analyzes the Indian job market.
+
+### Features
+
+- Salary Prediction
+
+- Data Visualization
+
+- Random Forest Model
+
+- Fairness Analysis
+
+- ML Pipeline
+
+### Tech Stack
+
+Python • Scikit-learn • Pandas • NumPy
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🤖 Financial AI System
+
+Enterprise-style AI application focused on intelligent financial analysis.
+
+### Features
+
+- AI Automation
+
+- FastAPI Backend
+
+- Modular Architecture
+
+- API Integrations
+
+- Intelligent Insights
+
+### Tech Stack
+
+Python • FastAPI • AI • SQLite
+
+</td>
+
+<td>
+
+## 🎓 AI Learning Management System
+
+Learning platform built to manage AI & ML learning paths.
+
+### Features
+
+- Course Tracking
+
+- Progress Management
+
+- File Handling
+
+- OOP Concepts
+
+### Tech Stack
+
+Python • OOP • File Handling
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📚 AI & ML Learning Journey
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=balaravi444&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Bala Ravi GitHub statistics" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaravi444&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Bala Ravi most-used languages" />
+## 🚀 90+ Days of Consistent Learning
 
 </div>
+
+My public repository documenting continuous learning in AI, Machine Learning, Python, and Software Engineering.
+
+### Covered Topics
+
+🐍 Python Programming
+
+📦 Object-Oriented Programming
+
+📊 Data Science
+
+🤖 Machine Learning
+
+🧠 Deep Learning
+
+🔢 Data Structures & Algorithms
+
+🌐 Backend Development
+
+🚀 Production Projects
+
+📘 Technical Notes
+
+🔗 Repository
+
+https://github.com/balaravi444/AI-ML-Learning-Journey
+
+---
+
+# 🎯 Current Engineering Goals
+
+- Build production-ready AI systems
+
+- Master Deep Learning
+
+- Learn System Design
+
+- Contribute to Open Source
+
+- Build scalable FastAPI applications
+
+- Develop enterprise-grade AI products
+
+---
+# 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=balaravi444&theme=tokyonight&hide_border=true" alt="Bala Ravi contribution streak" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=balaravi444&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaravi444&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
 </div>
 
-## Quick Facts
+---
 
-```yaml
-name: Bala Ravi
-location: Bengaluru, Karnataka, India
-education: Bachelor of Computer Applications, 2026
-primary_languages: [Python, JavaScript, TypeScript]
-frontend: [React, HTML, CSS]
-backend: [FastAPI, Flask]
-interests: [AI, Machine Learning, Backend Engineering, Automation]
-open_to: [Internships, Full-Time Roles, Freelance Projects, Collaboration]
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=balaravi444&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=balaravi444&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=balaravi444&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🚀 Engineering Journey
+
+<div align="center">
+
+| Phase | Focus | Status |
+|:------:|:------|:------:|
+| 🐍 Phase 1 | Python Programming | ✅ Completed |
+| 📦 Phase 2 | Object-Oriented Programming | ✅ Completed |
+| 🔢 Phase 3 | Data Structures & Algorithms | ✅ Completed |
+| 📊 Phase 4 | Data Science | ✅ Completed |
+| 🤖 Phase 5 | Machine Learning | 🚀 In Progress |
+| 🧠 Phase 6 | Deep Learning | ⏳ Upcoming |
+| ☁️ Phase 7 | Enterprise AI Systems | 🎯 Planned |
+
+</div>
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+| Certification | Organization |
+|---------------|--------------|
+| 🐍 Python Programming | GeeksforGeeks |
+| 🤖 AI & Machine Learning with Python | 3Skills |
+| 🛠 AI Tools Upskilling | Professional Training |
+| 📄 Research Publication | Power of Python in Quantitative Finance |
+
+</div>
+
+---
+
+# 🏅 Achievements
+
+🏆 Built multiple production-ready AI applications
+
+🚀 Successfully deployed live AI applications on Render
+
+📈 Maintained a public AI & ML learning journey
+
+💻 Developed FastAPI backend applications
+
+🤖 Built AI-powered financial assistant
+
+📊 Implemented Machine Learning prediction systems
+
+🌍 Built and shared open-source projects on GitHub
+
+🎯 Consistently improving through daily coding and project development
+
+---
+
+# 📚 Currently Learning
+
+```text
+🧠 Deep Learning
+
+🤖 Large Language Models (LLMs)
+
+⚡ FastAPI Advanced Concepts
+
+☁️ Cloud Deployment
+
+📦 Docker
+
+🏗 System Design
+
+🧩 Design Patterns
+
+🚀 Enterprise AI Development
 ```
 
-## Connect With Me
+---
 
-I am always interested in connecting with developers, recruiters, founders, educators, and teams building useful technology. If you would like to discuss a project, collaboration, or opportunity, feel free to reach out.
+# 💡 Developer Mindset
+
+```text
+✔ Build before consuming.
+
+✔ Learn by creating real projects.
+
+✔ Write clean, maintainable code.
+
+✔ Stay consistent every day.
+
+✔ Share knowledge publicly.
+
+✔ Focus on solving real-world problems.
+```
+
+---
+
+# 📊 Development Focus
 
 <div align="center">
 
-<a href="mailto:balaravi4545@gmail.com">Email</a> ·
-<a href="https://www.linkedin.com/in/bala-ravi444/">LinkedIn</a> ·
-<a href="https://github.com/balaravi444">GitHub</a> ·
-<a href="https://www.miltonpublicschoolmanvi.in/">Milton Public School Website</a>
+| Domain | Focus |
+|---------|------:|
+| 🐍 Python | ██████████ 100% |
+| ⚡ FastAPI | █████████░ 90% |
+| 🤖 Machine Learning | ████████░░ 80% |
+| 📊 Data Science | ████████░░ 80% |
+| 🧠 Deep Learning | ██████░░░░ 60% |
+| ☁️ Cloud | ████░░░░░░ 40% |
 
-<br /><br />
+</div>
 
-**Thanks for visiting my profile.**
+---
+
+# 🌟 2026 Goals
+
+✅ Master Python Backend Development
+
+✅ Build Enterprise AI Products
+
+✅ Contribute to Open Source
+
+✅ Secure an AI/ML Engineer Role
+
+✅ Develop Scalable SaaS Applications
+
+✅ Continue Building in Public
+
+---
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+I'm always excited to connect with developers, recruiters, startup founders, and fellow AI enthusiasts.
+
+If you'd like to collaborate, discuss an opportunity, or just talk about AI and Python, feel free to reach out.
+
+<p>
+
+<a href="mailto:balaravi4545@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bala-ravi444/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/balaravi444">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://financial-ai-system-sg1u.onrender.com/">
+<img src="https://img.shields.io/badge/Live_Project-00C853?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
+
+</p>
+
+</div>
+
+---
+
+# 📌 Quick Facts
+
+```yaml
+Name: Bala Ravi
+Location: Bengaluru, Karnataka, India 🇮🇳
+
+Education:
+  Degree: Bachelor of Computer Applications (BCA)
+  Graduation: 2026
+
+Current Focus:
+  - Python Development
+  - FastAPI
+  - Machine Learning
+  - AI Applications
+  - Backend Development
+
+Interests:
+  - Artificial Intelligence
+  - Backend Engineering
+  - Open Source
+  - Automation
+  - Software Engineering
+
+Available For:
+  - Internships
+  - Full-Time Roles
+  - Freelance Projects
+```
+
+---
+
+# 🚀 Featured Links
+
+| Resource | Link |
+|----------|------|
+| 🌐 Live Demo | https://financial-ai-system-sg1u.onrender.com/ |
+| 💻 GitHub | https://github.com/balaravi444 |
+| 📚 AI & ML Learning Journey | https://github.com/balaravi444/AI-ML-Learning-Journey |
+| 💼 LinkedIn | https://linkedin.com/in/bala-ravi444 |
+
+---
+
+# 💭 Favorite Quote
+
+<div align="center">
+
+> **"Consistency beats intensity. Small improvements every day create extraordinary results."**
+
+</div>
+
+---
+
+# ⚡ Fun Facts
+
+- 🐍 Python is my primary programming language.
+- 🤖 I enjoy building AI-powered applications.
+- 🚀 I like turning ideas into real software.
+- 📚 I believe the best way to learn is by building projects.
+- 🌱 I'm always learning something new.
+
+---
+
+# 💙 Thanks for Visiting
+
+<div align="center">
+
+If you like my work, consider giving a ⭐ to the repositories you find useful.
+
+It motivates me to continue building and sharing projects with the community.
+
+### Happy Coding! 🚀
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:06B6D4,100:10B981" alt="Profile footer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:06B6D4,100:10B981"/>
+
 </div>
-
-<!-- Profile views are intentionally preserved at the 10,000+ milestone. -->
-
-[1]: https://www.miltonpublicschoolmanvi.in/ "Milton Public School Manvi official website"
-[2]: https://github.com/balaravi444 "Bala Ravi on GitHub"
-[3]: https://www.linkedin.com/in/bala-ravi444/ "Bala Ravi on LinkedIn"
-
-## References
-
-[1] [Milton Public School Manvi official website][1]
-
-[2] [Bala Ravi on GitHub][2]
-
-[3] [Bala Ravi on LinkedIn][3]
-
-<!-- End of profile README -->
 
