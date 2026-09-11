@@ -34,119 +34,157 @@
 
 ---
 
-# Hi there! 👋
- 
-Welcome to my GitHub profile. I'm a web developer who builds real-time web applications, and an educator passionate about teaching Python, Artificial Intelligence, and Machine Learning to students.
- 
----
- 
-## 🚀 Project Showcase
- 
-### 🏫 Milton Public School Real-Time Website
- 
-Built a dynamic, real-time website for **Milton Public School** to strengthen the school's online presence and give students, parents, and staff instant access to important information.
- 
-**Key Features:**
- 
-- Real-time updates for announcements, events, and notices
-- Clean, user-friendly interface for easy navigation
-- Responsive design across devices
-- Centralized info hub for the school community
-🔗 [Visit the Live Website](https://www.miltonpublicschoolmanvi.in/)
- 
----
- 
-## 💡 Skills & Expertise
- 
-- **Programming Languages**: Python, JavaScript, HTML, CSS
-- **AI & Machine Learning**: TensorFlow, Keras, Scikit-learn, NLP
-- **Web Development**: Flask, Django, React, Node.js
-- **Databases**: SQL, MongoDB
-- **Cloud Platforms**: AWS, Google Cloud
-I actively apply these skills not just in building production websites like the Milton Public School project, but also in breaking down AI/ML concepts into practical, hands-on lessons for students — turning theory into projects they can build and understand.
- 
----
- 
-## 🧑‍🏫 Teaching & Mentorship
- 
-I'm committed to empowering the next generation of tech minds. I actively teach and mentor students in:
- 
-- **Python Programming** — building a strong foundation for real-world applications
-- **Artificial Intelligence** — exploring how intelligent systems work and where they're headed
-- **Machine Learning** — guiding students through building and understanding predictive models
-**Goals of my teaching initiatives:**
- 
-- Make complex AI/ML topics accessible and engaging
-- Encourage learning through hands-on projects, not just theory
-- Build student confidence to create their own real-world applications
-- Foster a lasting curiosity for technology and innovation
----
+# Hi, I'm a Python Developer and AI/ML Engineer 👋
 
-# 💼 What I Do
+Welcome to my GitHub profile.
 
-✅ Build Backend APIs using FastAPI
+I build **real-time web applications, backend systems, and AI-powered products** using Python and modern web technologies. I am also passionate about teaching and mentoring students in **Python, Artificial Intelligence, and Machine Learning** through practical, project-based learning.
 
-✅ Develop Machine Learning Applications
+## About Me
 
-✅ Build AI-powered Web Applications
+- 🎓 **BCA Graduate — 2026**
 
-✅ Python Automation
+- 🐍 Focused on **Python development and backend engineering**
 
-✅ Data Analysis
+- 🤖 Building expertise in **Artificial Intelligence and Machine Learning**
 
-✅ REST API Development
+- ⚡ Developing APIs and applications with **FastAPI, Flask, Django, and Streamlit**
 
-✅ Streamlit Dashboards
+- 🧠 Exploring **Deep Learning, AI Agents, and system design**
 
-✅ AI Product Development
+- 👨‍🏫 Teaching students how to turn technical concepts into practical projects
 
----
+- 📍 Based in **Bengaluru, India**
 
-# 🎯 Current Focus
+## Featured Project
 
-- 🧠 Deep Learning
+### Milton Public School — Real-Time Website
 
-- 🤖 AI Agents
+A dynamic website developed for **Milton Public School** to strengthen its digital presence and provide students, parents, staff, and visitors with timely access to essential information.
 
-- ⚡ FastAPI Backend Development
+#### Highlights
 
-- 📊 Machine Learning
+- Real-time announcements, events, and notice updates
 
-- 🏗️ System Design
+- Clear and user-friendly navigation
 
-- ☁️ Cloud Deployment
+- Responsive experience across desktop, tablet, and mobile devices
 
----
+- Centralized information hub for the school community
 
-# 🌍 Open To
+- Production deployment for a real-world organization
 
-✔ AI/ML Internship
+🔗 [**Visit the Live Website**](https://www.miltonpublicschoolmanvi.in/)
 
-✔ Python Developer Internship
+## Technical Skills
 
-✔ Backend Developer Internship
+### Programming Languages
 
-✔ Freelance Projects
+`Python` · `JavaScript` · `HTML` · `CSS`
 
-✔ Open Source Contributions
+### Artificial Intelligence and Machine Learning
 
-✔ Full-Time Opportunities
+`TensorFlow` · `Keras` · `Scikit-learn` · `Natural Language Processing` · `Deep Learning`
 
----
+### Backend and Web Development
 
-# 📌 Quick Highlights
+`FastAPI` · `Flask` · `Django` · `React` · `Node.js` · `REST APIs` · `Streamlit`
 
-🎓 BCA Graduate (2026)
+### Databases and Cloud
 
-🐍 Python Developer
+`SQL` · `MongoDB` · `AWS` · `Google Cloud`
 
-🤖 AI Engineer
+I apply these technologies to build production-oriented applications while continuously improving my ability to design reliable systems, develop useful AI solutions, and explain complex concepts clearly.
 
-🔥 75+ Days of Consistent AI/ML Learning
+## What I Do
 
-🚀 Multiple Production Projects
+- Build scalable **backend APIs** with FastAPI and Python
 
-🌍 Based in Bengaluru, India 🇮🇳
+- Develop **AI-powered web applications**
+
+- Create **machine learning applications and predictive models**
+
+- Automate repetitive workflows using Python
+
+- Analyze data and extract actionable insights
+
+- Design and integrate RESTful APIs
+
+- Build interactive dashboards with Streamlit
+
+- Turn product ideas into practical software solutions
+
+## Teaching and Mentorship
+
+I believe technology becomes more accessible when it is taught through practical application. I mentor students in:
+
+- **Python Programming** — developing a strong foundation for software development
+
+- **Artificial Intelligence** — understanding intelligent systems and their real-world applications
+
+- **Machine Learning** — building, evaluating, and interpreting predictive models
+
+### My Teaching Approach
+
+- Make complex technical topics simple, clear, and approachable
+
+- Use hands-on projects instead of relying only on theory
+
+- Connect classroom concepts to real-world applications
+
+- Help students build confidence through consistent practice
+
+- Encourage curiosity, experimentation, and independent problem-solving
+
+## Current Focus
+
+- 🧠 Deep Learning and neural networks
+
+- 🤖 AI agents and intelligent automation
+
+- ⚡ FastAPI and backend architecture
+
+- 📊 Machine learning and applied data science
+
+- 🏗️ System design and scalable application development
+
+- ☁️ Cloud deployment and production readiness
+
+## Open To
+
+I am currently open to opportunities involving:
+
+- AI/ML internships
+
+- Python developer internships
+
+- Backend developer internships
+
+- Freelance software and AI projects
+
+- Open-source collaborations
+
+- Full-time software, backend, or AI/ML roles
+
+If you are working on an interesting product, educational initiative, or open-source project, I would be happy to connect.
+
+## GitHub Highlights
+
+- 🚀 Building and deploying real-world production projects
+
+- 🔥 Maintaining a consistent AI/ML learning journey
+
+- 🧩 Combining software engineering with applied machine learning
+
+- 🌍 Focused on creating technology that is useful, practical, and accessible
+
+## Let's Connect
+
+I am always interested in connecting with developers, educators, founders, and organizations working on meaningful technology.
+
+**Thanks for visiting my profile!**
+
+> Build consistently. Learn deeply. Create solutions that matter.
 
 ---
 # 🛠️ Tech Stack
